@@ -101,7 +101,6 @@ The size features (y, carat, x and z) account for about 88.7% of the importance.
 ```
 .
 ├── Project_2_E-Commerce_Dynamic_Price_Prediction.ipynb   # Notebook with code and outputs
-├── E-Commerce_Dynamic_Price_Prediction_Report.pdf        # Project report
 └── README.md
 ```
 
